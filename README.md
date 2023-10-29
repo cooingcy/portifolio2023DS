@@ -1,2 +1,10 @@
-# portifolio2023DS
-Repositório para o meu portifólio de Desenvolvimento de Sistemas, que expõem minha jornada - Vinculado ao Médio Superior (AMS) - da ETEC ZONA LESTE, com parceria da multinacional IBM
+<div aling="center>" # Portifólio - Desenvolvimento de Sistemas AMS
+
+  <br>
+
+  ## Projeto Criacão de um Wensite
+
+  <div>
+    ### Projeto : <a href="https://github.com/P4BLOll/Persona-Pizza"> Persona Pizza </a>
+  </div>
+  </div>

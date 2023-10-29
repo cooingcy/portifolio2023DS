@@ -1,5 +1,2 @@
 # portifolio2023DS
-
-
-
-Link do Projeto: https://github.com/P4BLOll/Persona-Pizza.git
+Repositório para o meu portifólio de Desenvolvimento de Sistemas, que expõem minha jornada. Vinculado ao Médio Superior (AMS) da ETEC ZONA LESTE, com parceria da multinacional IBM

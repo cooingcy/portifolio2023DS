@@ -1,11 +1,14 @@
-<div aling="center"> 
-  # Portifólio - Desenvolvimento de Sistemas AMS
+
+<div align="center"> 
   
-  <br>
+# Portfólio - Desenvolvimento de Sistemas Novotec AMS - ETEC Zona Leste
 
-   Projeto Criacão de um Wensite
+<br></br>
 
-  <div>
-     Projeto : <a href="https://github.com/P4BLOll/Persona-Pizza"> Persona Pizza </a>
-  </div>
-  </div>
+## Projeto de Criação de Website
+<div align="center">
+
+### Projeto : <a href="https://github.com/P4BLOll/Persona-Pizza"> PersonaPizza </a> 
+</div>
+
+</div>
